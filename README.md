@@ -5,6 +5,6 @@ If you reload the page, the bookmarks will appear<br/>
 Validations are also added such as valid url should be entered. URL will not be added if URL input is empty/NULL.
 
 <hr>
-With <a href ="https://www.w3schools.com/html/html5_webstorage.asp">HTML Local Storage</a>web applications can store data locally within the user's browser
+With <a href ="https://www.w3schools.com/html/html5_webstorage.asp">HTML Local Storage</a> web applications can store the data locally within the user's browser
 
 
