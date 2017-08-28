@@ -23,5 +23,8 @@ With <a href ="https://www.w3schools.com/html/html5_webstorage.asp">HTML Local S
 
 <hr>
 <h3>Console</h3>
+<li>Right click and select inspect elements or pree F12 key on the keyboard/li>
+<li>Select <b>Applications</b> tab.</li>
+<li>Select Storage -> Local Storage -> file or web URL. There we have a bookmarks key and parsed string of JSON object has the bookmark </li>
 <img src="https://github.com/patilankita79/WebsiteBookmarkApplication/blob/master/Screenshots/localstorage-keyValuepairConsole.png" />
 
